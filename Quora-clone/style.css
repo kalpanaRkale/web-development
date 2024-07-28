@@ -1,0 +1,53 @@
+*{
+    font-family: Trebuchet MS;
+    background-color: rgb(35, 34, 34);
+}
+
+h1{
+    font-family : papyrus;
+    color: #b92b27;
+}
+
+#login{
+    background-color: aliceblue;
+}
+
+#signup{
+    background-color: #b92b27;
+    color:aliceblue;
+}
+.upvote{
+    background-color: rgb(44, 138, 44);
+    color: aliceblue;
+}
+.answer{
+    color: aliceblue;
+}
+.post a{
+    color:cornsilk;
+    text-decoration: none;
+}
+.post a:hover{
+    color: yellowgreen;
+    text-decoration: none;
+}
+p+h4{
+    text-decoration: underline;
+    color: aliceblue;
+}
+div > input{
+    background-color:ghostwhite;
+}
+button:hover{
+    background-color: #b92b27;
+    color:yellow;
+}
+button:active{
+    background-color: darkslategrey;
+    color:ghostwhite;
+}
+p:hover{
+    font-weight: bold;
+    color:white;
+    text-decoration: underline;
+}
