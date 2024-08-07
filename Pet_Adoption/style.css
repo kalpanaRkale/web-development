@@ -1,6 +1,6 @@
 *{
   font-family: cursive;
-  background-color: rgb(35, 34, 34);
+  background-color: rgb(88, 85, 85);
   color: white;
 }
 
@@ -42,7 +42,7 @@ h3 {
 }
 
 p {
-  color: #3c787e;
+  color: black;
 }
 
 #pets {
@@ -52,7 +52,13 @@ p {
   gap: 2px;
 }
 
-
 h4{
   text-align: right;
+}
+
+@media (max-width:375px){
+  #pets{
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
