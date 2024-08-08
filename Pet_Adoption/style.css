@@ -1,7 +1,7 @@
 *{
   font-family: cursive;
-  background-color: rgb(88, 85, 85);
-  color: white;
+  background-color: bisque;
+  color: rgb(132, 54, 9);
 }
 
 .header {
@@ -20,7 +20,7 @@
 }
 
 .header h1 {
-  font-family: "Lucida Handwriting", cursive;
+  font-family: Satisy;
   margin: 0;
   font-size: 2rem; /* Adjust as needed */
 }
